@@ -13,13 +13,13 @@ This study guide is designed to help you effectively navigate and master the KAU
 
 #### **Daily Plan**
 1. **Day 1**: [Watch Lecture](https://youtu.be/rqMy9tx3yB8?si=83KdD-gNwFYlJEJj)  
-   - Key Topics: Introduction and foundational concepts.
+
 2. **Day 2**: [Watch Lecture](https://youtu.be/x3Q89nVn9zc?si=UwS8RXrXaE74Z5Bx)  
-   - Key Topics: Advanced basics with code examples.
+
 3. **Day 3**: [Watch Lecture](https://youtu.be/YVw5PmyjUpo?si=if695EZpjbUmnuD8)  
-   - Key Topics: Applications of concepts with real-world examples.
+
 4. **Day 4**: [Watch Lecture](https://youtu.be/pMv-75zsZew?si=kS5vDMFuX9toAUGD)  
-   - Key Topics: Problem-solving and implementation challenges.
+
 
 #### **Focus Areas**
 - Take detailed notes during lectures.
@@ -54,7 +54,7 @@ This study guide is designed to help you effectively navigate and master the KAU
 - **Duration**: 2 to 4 days
 
 #### **Focus Areas**
-1. Practice using old exam files. Train extensively to simulate real-world scenarios.
+1. Practice using old exam files. Train extensively to simulate real-world.
 2. Revisit slides to reinforce understanding of concepts and examples.
 3. Conduct self-assessments to identify and address weak areas.
 
