@@ -1,7 +1,7 @@
 <img src="resources/KAUST (Email Header).png" alt="KAUST Logo" align="center">
 
 
-A repository for organizing all resources, notes, and code to prepare for the KAUST AI program.
+My repository for organizing all resources, notes, and code to prepare for the KAUST AI program.
 
 ---
 
