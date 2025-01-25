@@ -15,4 +15,5 @@ My repository for organizing all resources, notes, and code to prepare for the K
 By: Prof.Naeemullah Khan | [@Naeemullah-Khan](https://github.com/Naeemullah-Khan) 
 - [KAUST AI Program Intro](https://naeemullah-khan.github.io/IAI23/index.html)
 - [KAUST AI Program Advanced](https://naeemullah-khan.github.io/AAI23/index.html)
-
+- [KAAAI24B1](https://naeemullah-khan.github.io/KAAAI24B1/index.html)
+- [KAAAI24B2](https://naeemullah-khan.github.io/KAAAI24B2/index.html)
